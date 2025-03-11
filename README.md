@@ -57,7 +57,6 @@ When I'm not coding, you might find me:
 
 ### 📫 Let's Connect!
 
-[Feel free to add your preferred contact methods here, such as:]
 - 💼 LinkedIn: https://www.linkedin.com/in/vaddadhi-harish-31a82b20a/
 - 📧 Email:  vharish35063@gmail.com
 - 🌐 Portfolio: https://2-harish-portfolio.vercel.app
